@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Dot_Net_Gpt2_Ai_Chatbot</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="1.19.2" />
+    <PackageReference Include="Microsoft.ML.Tokenizers" Version="0.21.1" />
+    <PackageReference Include="Python.Included" Version="3.11.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\Vocabularies\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Assets\Vocabularies\Merges.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\Vocabularies\vocab.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

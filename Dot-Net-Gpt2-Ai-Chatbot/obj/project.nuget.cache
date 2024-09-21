@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYKc1z5oZ/4=",
+  "success": true,
+  "projectFilePath": "E:\\Code\\Team\\Ops\\Gpt2tNlp\\Dot-Net-Gpt2-Ai-Chatbot\\Dot-Net-Gpt2-Ai-Chatbot\\Dot Net Gpt2 Ai Chatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\byte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.19.2\\microsoft.ml.onnxruntime.1.19.2.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.19.2\\microsoft.ml.onnxruntime.managed.1.19.2.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\microsoft.ml.tokenizers\\0.21.1\\microsoft.ml.tokenizers.0.21.1.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\python.deployment\\2.0.5\\python.deployment.2.0.5.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\python.included\\3.11.6\\python.included.3.11.6.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\pythonnet\\3.0.1\\pythonnet.3.0.1.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512",
+    "C:\\Users\\byte\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
